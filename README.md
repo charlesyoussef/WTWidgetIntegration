@@ -65,7 +65,7 @@ The identity of the Widget user is strictly defined by the Webex token passed to
    
    
   2) Here is an example of a group widget:
-  
+  """
      <div style="width: 500px; height: 330px;" id="space" />
 
    <script src="https://code.s4d.io/widget-space/production/bundle.js"></script>
@@ -82,3 +82,4 @@ The identity of the Widget user is strictly defined by the Webex token passed to
       });
 
    </script>
+"""
